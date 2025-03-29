@@ -13,9 +13,6 @@ export default function Layout({ children, title = 'ImadLab - Engineering Intell
         <title>{title}</title>
         <meta name="description" content="Data Engineering & AI specialist crafting scalable, real-time solutions and exploring the frontiers of machine learning." />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet" />
       </Head>
 
       <header className="sticky top-0 z-50 backdrop-blur-lg bg-white/70 dark:bg-primary-dark/70 border-b border-gray-200 dark:border-gray-800">
