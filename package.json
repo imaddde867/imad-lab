@@ -1,0 +1,33 @@
+{
+  "name": "imadlab",
+  "version": "1.0.0",
+  "description": "Engineering Intelligence - Data Engineering & AI Lab",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx next dev",
+    "build": "npx next build",
+    "start": "npx next start",
+    "lint": "npx next lint"
+  },
+  "keywords": [
+    "data engineering",
+    "ai",
+    "machine learning",
+    "portfolio"
+  ],
+  "author": "Imad Eddine EL MOUSS",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.17",
+    "framer-motion": "^12.6.2",
+    "next-themes": "^0.4.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "next": "^15.2.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.17"
+  }
+}
